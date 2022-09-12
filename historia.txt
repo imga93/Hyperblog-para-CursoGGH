@@ -10,6 +10,7 @@ Master 1
 Master 2
 =======
 
+<<<<<<< HEAD
 
 >>>>>>> b6f47bf (experimento 3)
 experimento 1 
@@ -18,4 +19,6 @@ experimento 2
 
 experimento 3
 
+=======
+>>>>>>> 0a542f2 (experimento 0)
 hoy es un emprendedor y estudia en platzi 
