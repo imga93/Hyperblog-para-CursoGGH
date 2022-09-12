@@ -7,6 +7,7 @@ ciega en que lo que hace al ser humano libre es el dinero
 Master 1
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Master 2
 =======
 
@@ -21,4 +22,6 @@ experimento 3
 
 =======
 >>>>>>> 0a542f2 (experimento 0)
+=======
+>>>>>>> 552a446 (exp 0)
 hoy es un emprendedor y estudia en platzi 
